@@ -1,0 +1,3 @@
+- Anonymize the provided data set, ensuring the protection of personal details.
+- Utilize anonymization techniques such as removing unnecessary columns, masking identifying information, and categorizing sensitive figures.
+- Submit the anonymized data as a CSV file.
